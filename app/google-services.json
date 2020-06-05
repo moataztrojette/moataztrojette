@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657219146622",
+    "firebase_url": "https://smart-house-da5d3.firebaseio.com",
+    "project_id": "smart-house-da5d3",
+    "storage_bucket": "smart-house-da5d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657219146622:android:1dbeb3130ae76b78db592f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication55"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657219146622-adkr5ponb815n9gtcikkq8e4gm24l89g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLB62eZjoaS9CrcXh7diIR4V76LRi32U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657219146622-adkr5ponb815n9gtcikkq8e4gm24l89g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

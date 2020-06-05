@@ -1,0 +1,74 @@
+<resources>
+    <string name="startgarage">garage</string>
+    <string name="startsalle">living room</string>
+    <string name="startchambre">bedroom</string>
+    <string name="startcusine">kitchen</string>
+    <string name="startsalledebains">bathroom</string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="app_name">My Application</string>
+    <string name="ButtonStartApp">Start Application</string>
+    <string name="SmartHouseNews">Information</string>
+    <string name="desc">Image</string>
+    <string name="welcome">Welcome</string>
+    <string name="nice_to_see_you_again">Nice to see you again</string>
+    <string name="in_recent_years_the_digital_revolution_has_profoundly_changed_our_lifestyles_and_our_uses_with_the_smart_home_also_called_smart_home_the_digital_world_comes_into_our_interior_thus_the_connected_house_makes_it_possible_to_optimally_manage_a_home_thanks_to_home_automation_and_the_latest_technologies">In recent years, the digital revolution has profoundly changed our lifestyles and our uses. With the smart home (also called smart home), the digital world comes into our interior. Thus, the connected house makes it possible to optimally manage a home thanks to home automation and the latest technologies.</string>
+    <string name="smarthouse">SmartHouse</string>
+    <string name="start">start</string>
+    <string name="welcome_to_smart_house_house_up">Welcome to smart house app</string>
+    <string name="startCarage">Start</string>
+    <string name="startSalle">Start</string>
+    <string name="startbitnom">Start</string>
+    <string name="startcuisine">Start</string>
+    <string name="startsalledebain">Start</string>
+
+
+    <string name="garageOn">On</string>
+    <string name="garageOff">Off</string>
+    <string name="garageUp">Up</string>
+    <string name="garageDown">Down</string>
+
+
+    <string name="salleOn">On</string>
+    <string name="salleOff">Off</string>
+    <string name="salleGasOn">On</string>
+    <string name="salleGasOff">Off</string>
+
+
+    <string name="ChambreOn">On</string>
+    <string name="ChambreOff">Off</string>
+    <string name="ChambreOpen">Open</string>
+    <string name="ChambreClose">Close</string>
+
+
+    <string name="SalleDeBainsOpen">open</string>
+    <string name="SalleDeBainsclose">close</string>
+
+
+
+    <string name="cuisineLedOn">On</string>
+    <string name="cuisineLedOff">Off</string>
+    <string name="cuisineGasStoveOn">On</string>
+    <string name="cuisineGasStoveOff">Off</string>
+    <string name="cuisineVentilateurOn">On</string>
+    <string name="cuisineVentilateurOff">Off</string>
+    <string name="welcomett">Welcome</string>
+    <string name="facebookttt">Facebook</string>
+    <string name="smart_house_appttt">Smart house App</string>
+    <string name="don_t_have_an_accounttt">Don’t have an account?</string>
+    <string name="create_accountttt">Create account</string>
+    <string name="starttt">start</string>
+    <string name="googlettt">Google</string>
+
+
+</resources>
